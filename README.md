@@ -3,7 +3,7 @@
 # Kung Fu Management System
 The Kung Fu Management System is the software database application to maintain the student record including the attendance, accounts, sports activities, profile information, course work and grades. It enables user to enter, store and generate reports of the student data.
 
-#### Functionality
+### Functionality
 - The system stores the student name, date of birth, the date they joined the school, their mobile number, email, and address.  
 - It also tracks the students’ parents (Mother and/or Father) information.
 - The students' fee for membership, tests, purchasing products is tracked.
@@ -11,7 +11,7 @@ The Kung Fu Management System is the software database application to maintain t
 - The software also stores the studnets' rank in martial arts. It holds the progress report of students' rank. 
 
 
-#### Technical Specifications
+### Technical Specifications
 - For this project, JSP, HTML5, CSS have been used for development. 
 - IDE: Netbeans IDE 8.1 has been used for implementation.
 - Database: MySQL 5.5 and MySQL Workbench 6.3 CE are employed.
