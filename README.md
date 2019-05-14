@@ -14,7 +14,7 @@ The Kung Fu Management System is the software database application to maintain t
 ### Technical Specifications
 - For this project, JSP, HTML5, CSS have been used for development. 
 - IDE: Netbeans IDE 8.1 has been used for implementation.
-- Database: MySQL 5.5 and MySQL Workbench 6.3 CE are employed.
+- Database: SQL Server 
 
 ### Configuring the project
 - The foremost requirement will be to install the Java SDK.
